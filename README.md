@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/norfolkjs/logistics.png?label=ready&title=Ready)](https://waffle.io/norfolkjs/logistics)
 # Norfolk.js Logistics
 
 This repository is for managing meetups, sponsors, locations, and other sort of issues relating to the organization of the user group.
